@@ -7,6 +7,7 @@ Project is created with:
 * .Net Core 2.2
 * Vue.js
 * Vuex
+* Vue Router
 * Axios (for ajax call)
 * Bootstrap 4.0
 
